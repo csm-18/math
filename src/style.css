@@ -26,3 +26,11 @@ h1 {
   color: #0d1b2a;
   padding: 0.5rem;
 }
+
+input {
+  margin: 2rem;
+  font-size: 2.5rem;
+  padding: 1rem 0.8rem;
+  border-style: solid;
+  border-radius: 8px;
+}
